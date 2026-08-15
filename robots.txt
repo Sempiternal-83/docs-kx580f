@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-j2bw4l.salamcuanwin.cfd/sitemap.xml
